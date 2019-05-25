@@ -21,4 +21,7 @@ Example
     - TitNewTitle： 幸福绝缘体
 
 
-*   
+* Version: 68
+    - Date and time: 2019/05/25
+    - Changed by: ??
+    - TitNewTitle： Merge ConflictVer. 68
