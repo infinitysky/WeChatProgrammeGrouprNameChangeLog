@@ -38,3 +38,14 @@ Example
     机器人：狐狸叔发出了新婚后最色情的对白
 ```
 
+* Version: 70
+    - Date and time: 2019/05/26
+    - Changed by: 辣条
+    - TitNewTitle： acer的育儿经. v70
+    - Changes:
+    ``
+    * 关于鸡哥户口的内容
+    * 户口的重要性 
+    ``
+
+
