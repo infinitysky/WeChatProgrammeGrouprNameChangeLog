@@ -25,3 +25,16 @@ Example
     - Date and time: 2019/05/25
     - Changed by: ??
     - TitNewTitle： Merge ConflictVer. 68
+
+* Version: 69
+    - Date and time: 2019/05/25
+    - Changed by: Kurotsuki
+    - TitNewTitle： 狐狸的晨间情色谈话直播间. v69
+    - Changes: 
+ ```
+    helloFox: 身体受不了
+    卷毛哥布林:狐狸叔发出了新婚后最色情的对白
+    helloFox:
+    机器人：狐狸叔发出了新婚后最色情的对白
+```
+
