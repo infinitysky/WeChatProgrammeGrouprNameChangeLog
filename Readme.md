@@ -47,5 +47,28 @@ Example
     * 关于鸡哥户口的内容
     * 户口的重要性 
     ```
+    
 
 
+* Version: 71
+    - Date and time: 2019/05/26
+    - Changed by: 辣条
+    - TitNewTitle： 狐狸叔的晚间情话直播间. v71
+    - Changes:
+    ```
+    * 结婚第二天的故事
+    * 
+    ```
+    
+    
+* Version: 71.1
+    - Date and time: 2019/05/26
+    - Changed by: 辣条
+    - TitNewTitle： 狐狸叔的骚话直播间. v71.1
+    - Changes:
+    ```
+    * 
+    * 狐狸交公粮的故事
+    ```
+    
+    
