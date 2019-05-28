@@ -71,4 +71,14 @@ Example
     * 狐狸交公粮的故事
     ```
     
+
+* Version: 72
+    - Date and time: 2019/05/28
+    - Changed by: 豆子
+    - TitNewTitle： 河流之王丧气满满. v72
+    - Changes:
+    ```
+    * 
+    * 鸡哥日常哭丧
+    ```
     
