@@ -31,12 +31,12 @@ Example
     - Changed by: Kurotsuki
     - TitNewTitle： 狐狸的晨间情色谈话直播间. v69
     - Changes: 
- ```
+    ```
     helloFox: 身体受不了
     卷毛哥布林:狐狸叔发出了新婚后最色情的对白
     helloFox:
     机器人：狐狸叔发出了新婚后最色情的对白
-```
+    ```
 
 * Version: 70
     - Date and time: 2019/05/26
@@ -52,7 +52,7 @@ Example
 
 * Version: 71
     - Date and time: 2019/05/26
-    - Changed by: 辣条
+    - Changed by: 夏终
     - TitNewTitle： 狐狸叔的晚间情话直播间. v71
     - Changes:
     ```
@@ -63,7 +63,7 @@ Example
     
 * Version: 71.1
     - Date and time: 2019/05/26
-    - Changed by: 辣条
+    - Changed by: 夏终
     - TitNewTitle： 狐狸叔的骚话直播间. v71.1
     - Changes:
     ```
