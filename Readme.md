@@ -85,7 +85,7 @@ Example
        
 
 * Version: 73
-    - Date and time: 2019/05/29
+    - Date and time: 2019/05/28
     - Changed by: 真人
     - TitNewTitle： 半推半就言不由衷. v73
     - Changes:
@@ -95,5 +95,13 @@ Example
     ``` 
     
     
+* Version: 74
+    - Date and time: 2019/05/29
+    - Changed by: 真人
+    - TitNewTitle： 通宵喝奶不简单. v74
+    - Changes:
+    ```
+    * 小污龟约两个女同事通宵喝奶
+    ``` 
     
     
