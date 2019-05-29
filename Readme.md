@@ -82,3 +82,18 @@ Example
     * 鸡哥日常哭丧
     ```
     
+       
+
+* Version: 73
+    - Date and time: 2019/05/29
+    - Changed by: 真人
+    - TitNewTitle： 半推半就言不由衷. v73
+    - Changes:
+    ```
+    * 小污龟:在女同事的疯狂暗示下
+    * 小污龟:我半推半就的和女同事说我们下午看个电影
+    ``` 
+    
+    
+    
+    
