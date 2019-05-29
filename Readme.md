@@ -29,7 +29,7 @@ Example
 * Version: 69
     - Date and time: 2019/05/25
     - Changed by: Kurotsuki
-    - TitNewTitle： 狐狸的晨间情色谈话直播间. v69
+    - NewTitle： 狐狸的晨间情色谈话直播间. v69
     - Changes: 
     ```
     helloFox: 身体受不了
@@ -41,7 +41,7 @@ Example
 * Version: 70
     - Date and time: 2019/05/26
     - Changed by: 辣条
-    - TitNewTitle： acer的育儿经. v70
+    - NewTitle： acer的育儿经. v70
     - Changes:
     ```
     * 关于鸡哥户口的内容
@@ -53,7 +53,7 @@ Example
 * Version: 71
     - Date and time: 2019/05/26
     - Changed by: 夏终
-    - TitNewTitle： 狐狸叔的晚间情话直播间. v71
+    - NewTitle： 狐狸叔的晚间情话直播间. v71
     - Changes:
     ```
     * 结婚第二天的故事
@@ -64,7 +64,7 @@ Example
 * Version: 71.1
     - Date and time: 2019/05/26
     - Changed by: 夏终
-    - TitNewTitle： 狐狸叔的骚话直播间. v71.1
+    - NewTitle： 狐狸叔的骚话直播间. v71.1
     - Changes:
     ```
     * 
@@ -75,7 +75,7 @@ Example
 * Version: 72
     - Date and time: 2019/05/28
     - Changed by: 豆子
-    - TitNewTitle： 河流之王丧气满满. v72
+    - NewTitle： 河流之王丧气满满. v72
     - Changes:
     ```
     * 
@@ -87,7 +87,7 @@ Example
 * Version: 73
     - Date and time: 2019/05/28
     - Changed by: 真人
-    - TitNewTitle： 半推半就言不由衷. v73
+    - NewTitle： 半推半就言不由衷. v73
     - Changes:
     ```
     * 小污龟:在女同事的疯狂暗示下
@@ -98,7 +98,7 @@ Example
 * Version: 74
     - Date and time: 2019/05/29
     - Changed by: 真人
-    - TitNewTitle： 通宵喝奶不简单. v74
+    - NewTitle： 通宵喝奶不简单. v74
     - Changes:
     ```
     * 小污龟约两个女同事通宵喝奶
