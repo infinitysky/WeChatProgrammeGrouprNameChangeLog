@@ -32,10 +32,10 @@ Example
     - NewTitle： 狐狸的晨间情色谈话直播间. v69
     - Changes: 
     ```
-    helloFox: 身体受不了
-    卷毛哥布林:狐狸叔发出了新婚后最色情的对白
-    helloFox:
-    机器人：狐狸叔发出了新婚后最色情的对白
+    * helloFox: 身体受不了
+    * 卷毛哥布林:狐狸叔发出了新婚后最色情的对白
+    * helloFox:
+    * 机器人：狐狸叔发出了新婚后最色情的对白
     ```
 
 * Version: 70
@@ -57,7 +57,6 @@ Example
     - Changes:
     ```
     * 结婚第二天的故事
-    * 
     ```
     
     
@@ -67,7 +66,6 @@ Example
     - NewTitle： 狐狸叔的骚话直播间. v71.1
     - Changes:
     ```
-    * 
     * 狐狸交公粮的故事
     ```
     
@@ -78,7 +76,6 @@ Example
     - NewTitle： 河流之王丧气满满. v72
     - Changes:
     ```
-    * 
     * 鸡哥日常哭丧
     ```
     
