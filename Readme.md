@@ -102,3 +102,14 @@ Example
     ``` 
     
     
+* Version: 75
+    - Date and time: 2019/05/29
+    - Changed by: Sunshine Boy-真人
+    - NewTitle： 面朝大海春暖花开. v75
+    - Changes:
+    ```
+    * 真人理解了生活的真谛
+    * 做人呢 最重要的就是开心
+    * 你饿不饿 我下面给你吃
+    ``` 
+    
