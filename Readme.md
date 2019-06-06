@@ -205,7 +205,7 @@ Example
     ```
 
 * Version: 82
-    - Date: 2019/06/05
+    - Date: 2019/06/06
     - Changed by: 光头豆
     - NewTitle： 帅猹的双响炮 .v82
     - Notes:
