@@ -204,7 +204,7 @@ Example
     * 万 就是要这样
     ```
 
-* Version: 81
+* Version: 82
     - Date: 2019/06/05
     - Changed by: 光头豆
     - NewTitle： 帅猹的双响炮 .v82
