@@ -225,7 +225,7 @@ Example
     
 * Version: 84
     - Date: 2019/06/06
-    - Changed by: 光头豆
+    - Changed by: 慧慧
     - NewTitle： 顾杰，光占便宜，不表白.v84
     - Notes:
     ```
